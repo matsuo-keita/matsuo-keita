@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**matsuo-keita/matsuo-keita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📍 Location
 
-Here are some ideas to get you started:
+**Based in Vancouver** - Working remotely with global teams across all time zones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Vancouver Geographic Area -->
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0,
+        "name": "Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.1207, 49.2827]
+      }
+    }
+  ]
+}
+```
+
