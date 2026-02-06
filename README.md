@@ -15,11 +15,19 @@
       "id": 1,
       "properties": {
         "ID": 0,
-        "name": "Vancouver"
+        "name": "Metro Vancouver"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [-123.1207, 49.2827]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-123.2750, 49.0100],
+            [-122.5100, 49.0100],
+            [-122.5100, 49.3700],
+            [-123.2750, 49.3700],
+            [-123.2750, 49.0100]
+          ]
+        ]
       }
     }
   ]
